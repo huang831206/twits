@@ -1,0 +1,16 @@
+{
+    "interval" : 5,
+    "mysql" : {
+        "host"     : "localhost",
+        "user"     : "your user",
+        "password" : "your password",
+        "database" : "your database"
+    },
+    "data_table" : {
+        "trending" : "trending",
+        "sentiment" : "sentiment",
+        "volume" : "volume"
+    },
+    "random_min" : 4,
+    "random_max" : 8
+}

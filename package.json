@@ -1,0 +1,23 @@
+{
+    "name": "twits",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "dependencies": {
+        "axios": "^0.18.0",
+        "chalk": "^2.3.1",
+        "crawler": "^1.1.2",
+        "moment": "^2.20.1",
+        "mysql": "^2.15.0",
+        "papaparse": "^4.4.0",
+        "q": "^1.5.1",
+        "stocktwits": "0.0.4"
+    },
+    "devDependencies": {},
+    "scripts": {
+        "new": "node setup.js",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "",
+    "license": "ISC"
+}
